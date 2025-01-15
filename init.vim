@@ -16,3 +16,6 @@ set smartindent
 set incsearch
 set hlsearch 
 colorscheme habamax
+call plug#begin()
+Plug 'neoclide/coc.nvim', {'branch': 'master', 'do': 'npm ci'}
+call plug#end()
