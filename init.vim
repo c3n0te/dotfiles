@@ -15,3 +15,4 @@ set autoindent
 set smartindent
 set incsearch
 set hlsearch 
+colorscheme habamax
